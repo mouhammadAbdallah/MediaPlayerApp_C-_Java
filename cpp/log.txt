@@ -1,0 +1,5 @@
+Video|Object Name:Mohamad, Path:Abdallah, duree:25
+Film|Object Name:Friend, Path:/home/Mohamad/inf224, Duree:15,1-2-3-4-5
+Video|Object Name:Salim, Path:Abdallah, duree:25
+Video|Object Name:Walid, Path:Abdallah, duree:25
+Photo|Object Name:download.png, Path:/home/Mohamad/Pictures, Longitude:20.25, Latidue:40.5
