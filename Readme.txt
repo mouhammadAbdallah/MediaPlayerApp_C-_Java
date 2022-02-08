@@ -2,6 +2,10 @@
 Prenom: Mohamad
 Nom: ABDALLAH
 
+Media Player App is a school projet where C++ and Object Oriented Programming are used to create the media player server and Java to create the client GUI that interacts with the server to fetch and launch media.
+
+
+
 *** Dans la partie C++:
 
 Q4)
